@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Zad2 {
     public static void main(String[] args) {
         //04.01.2024r.

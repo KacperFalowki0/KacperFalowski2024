@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Zad7 {
     public static void main(String[] args) {
         double regionmazowkiecki = 0.62;
